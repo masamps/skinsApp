@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:skins_app/page/home_page.dart';
+import 'package:skins_app/page/build_navigation_bar.dart';
 
 void main() {
   runApp(const MyApp());
